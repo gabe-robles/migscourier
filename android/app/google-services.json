@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "346985925516",
+    "firebase_url": "https://migs-marketplace-app.firebaseio.com",
+    "project_id": "migs-marketplace-app",
+    "storage_bucket": "migs-marketplace-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346985925516:android:c88447cdb4715a883fe4a9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migscourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBClushqqNoV01mjftOEtDH7AjrDZYhn24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346985925516:android:32d46ce7999cde2d3fe4a9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migsmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346985925516-474oa77rtfa2qmous42eiinenic6fgek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.migsmarketplace.migsmarketplace",
+            "certificate_hash": "09ee2175c6edc5c6e8e883f9f651e58263fa1ff1"
+          }
+        },
+        {
+          "client_id": "346985925516-bem7v8k7fq4p1vqfmeds11vbgbrtjeho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.migsmarketplace.migsmarketplace",
+            "certificate_hash": "86bb075574b0e0523c422ce56ed289934a2c6544"
+          }
+        },
+        {
+          "client_id": "346985925516-ka1bl24cq1pkkeho5m1lrpkvclp8uqf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.migsmarketplace.migsmarketplace",
+            "certificate_hash": "8c56dd57215e7c42d7a8cea2c1c3bb9148b236cb"
+          }
+        },
+        {
+          "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBClushqqNoV01mjftOEtDH7AjrDZYhn24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346985925516:android:b3c41eab0c63ed2a3fe4a9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migsmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBClushqqNoV01mjftOEtDH7AjrDZYhn24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346985925516-8jj8fcrbei85n8lr89i76rb8hk8bk1u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
